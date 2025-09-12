@@ -1,0 +1,10 @@
+## 1.5 Required Functions
+
+This document includes many functions that State agencies and FNS alike would consider important for inclusion in an automated system. State agency discretion is needed in determining which functions to include in their system. For some State agencies, cost will be a primary factor in making this determination. FNS recommends that State agencies weigh  he cost of a function against the long-term benefit that automation of the
+function will bring to their Program.
+
+Not all functionality described in this document necessarily needs to be incorporated into a WIC information system. Some functions, for example, may be automated outside the WIC information system, but use data extracted from the WIC IS database for analysis and processing. Additionally, FNS understands that each State agency has its own unique technology and budgetary constraints which may limit the functions or level of functionality that can be implemented.
+
+The previous FReD identified 30 required functions. Many systems have since been modified to include those functions. FNS will continue to use these basic requirements to measure progress in system development nationwide. In addition, new functions have been identified that FNS believes should be incorporated whenever systems are updated or replaced. These functions are described in Section 3, identified in the Requirements Traceability Matrix in Appendix C, and are listed in their entirety in Appendix D: WIC IS Base Functionality. Incorporation of these functions in State systems now will streamline future EBT implementation.
+
+FNS will review APDs to ensure the base functions are included when systems are being planned and developed. If certain required functions cannot be achieved or are already automated in a separate system, State agencies should document in the APD the reason the function will not be automated. During Management Evaluations, the IS will be reviewed to ensure the base functions are accomplished and FNS will track this activity.

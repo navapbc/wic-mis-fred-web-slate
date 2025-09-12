@@ -1,0 +1,5 @@
+## 1.6 Implementation Approaches
+
+To assist State agencies in identifying options in the implementation of functions, many functions include information on potential implementation approaches – “how” the function could operate in the system. In some cases implementation approaches describe various levels of automation from least to most automated. Many of the implementation approaches included in the FReD are examples of how a State agency has already implemented the function in an information system.
+
+Implementation approaches are not always mutually exclusive; States can incorporate more than one into their system design. FNS recommends that State agencies work toward achieving the highest level of automation, as funds permit. At a minimum, the base functions should be achieved, where possible.
